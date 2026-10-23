@@ -11,7 +11,7 @@ Claim only what is true today. Update each profile when a milestone lands.
 | 3 | PortSwigger Academy | portswigger.net/web-security | 5 min | Free account, tracks lab progress |
 | 4 | Hack The Box | hackthebox.com | 5 min | Free tier |
 | 5 | ISC2 (skip for now) | | | Free programme ended 20 May 2026. See ROADMAP.md cert plan |
-| 6 | Credly | credly.com | 5 min | Needed when ISC2 issues your badge |
+| 6 | Credly | credly.com | 5 min | Needed when a cert issues your badge (BSCP, Security+) |
 | 7 | huntr | huntr.com | 5 min | AI/ML bug bounty. Create now, hunt in Phase 5 |
 | 8 | Bitwarden | bitwarden.com | 10 min | Do this FIRST, before the others |
 
@@ -32,7 +32,7 @@ I run **FORGE**, an AI agent platform for London tradespeople, and I'm building 
 ## Right now
 - Phase 1 of 6: foundations (Python, Linux, Git, HTTP)
 - Following a public 48 week plan: [ai-security-career](https://github.com/builtbyaaronf-sif/ai-security-career)
-- Working toward: ISC2 CC, PortSwigger labs, LLM red teaming
+- Working toward: PortSwigger labs, Burp Suite certification, LLM red teaming
 
 ## What I'm building toward
 - An input sanitiser gateway that blocks prompt injection, with measured results
@@ -70,7 +70,7 @@ Use the same email. Start with SQL injection, then Authentication, then Access c
 **Username:** builtbyaaronf. Start with Starting Point tier 0. Enable 2FA in settings.
 
 ## Credly
-Public profile name: Aaron F. Keep it public. Badges from ISC2 land here automatically.
+Public profile name: Aaron F. Keep it public. Cert badges land here when issued.
 
 ## huntr
 Username: builtbyaaronf. Read their disclosure rules before testing anything. Hunt only on in-scope open source projects.
