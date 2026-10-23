@@ -10,7 +10,7 @@ Claim only what is true today. Update each profile when a milestone lands.
 | 2 | TryHackMe | tryhackme.com | 5 min | Free tier is enough |
 | 3 | PortSwigger Academy | portswigger.net/web-security | 5 min | Free account, tracks lab progress |
 | 4 | Hack The Box | hackthebox.com | 5 min | Free tier |
-| 5 | ISC2 One Million Certified | isc2.org (search "One Million Certified") | 10 min | Free CC course and exam |
+| 5 | ISC2 (skip for now) | | | Free programme ended 20 May 2026. See ROADMAP.md cert plan |
 | 6 | Credly | credly.com | 5 min | Needed when ISC2 issues your badge |
 | 7 | huntr | huntr.com | 5 min | AI/ML bug bounty. Create now, hunt in Phase 5 |
 | 8 | Bitwarden | bitwarden.com | 10 min | Do this FIRST, before the others |

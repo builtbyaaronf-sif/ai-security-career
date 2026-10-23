@@ -11,9 +11,9 @@ Each phase ends with a **gate** (written test + practical). Pass at 80% or repea
 | Linux + terminal | OverTheWire **Bandit** (levels 0 to 20) |
 | Git + GitHub | GitHub Skills (free interactive courses) |
 | Networking + HTTP | Professor Messer Network+ videos, MDN HTTP docs |
-| Security baseline cert | **ISC2 Certified in Cybersecurity (CC)**: training and exam free via ISC2 "One Million Certified" |
+| Security baseline cert | Decide later. ISC2 CC is no longer free (programme closed 20 May 2026). See the cert plan below |
 
-**Ship:** `python-security-scripts` repo (port scanner, log parser, HTTP header checker). ISC2 CC booked.
+**Ship:** `python-security-scripts` repo (port scanner, log parser, HTTP header checker).
 **Gate 1:** Bandit level 20, CS50P problem sets done, quiz 80%+.
 
 ## Phase 2: Web and API security (Weeks 7 to 14)
@@ -26,7 +26,7 @@ Each phase ends with a **gate** (written test + practical). Pass at 80% or repea
 | Threat modelling | OWASP Threat Dragon, STRIDE |
 | Cloud basics | AWS Skill Builder free tier, AWS Cloud Practitioner Essentials |
 
-**Ship:** 15+ PortSwigger labs written up. A STRIDE threat model of FORGE's payment and intake flow (see `EVIDENCE.md`). ISC2 CC passed.
+**Ship:** 15+ PortSwigger labs written up. A STRIDE threat model of FORGE's payment and intake flow (see `EVIDENCE.md`). Burp Suite Certified Practitioner (BSCP) exam booked.
 **Gate 2:** 3 unseen PortSwigger labs solved unaided in 3 hours.
 
 ## Phase 3: How LLM systems work (Weeks 15 to 20)
@@ -72,6 +72,15 @@ Each phase ends with a **gate** (written test + practical). Pass at 80% or repea
 - Monthly mock interviews from week 30: system design for a secure agent, live threat model, code review.
 
 **Gate 6:** an offer.
+
+## Certification plan (revised 23 Oct 2026)
+| When | Cert | Notes |
+|---|---|---|
+| Weeks 7 to 14 | PortSwigger lab progress (free) | Public profile, hard to fake |
+| About week 14 | Burp Suite Certified Practitioner | Practical exam, about $99. Check price |
+| About week 24 | CompTIA Security+ | Common HR filter. Roughly $400. Check price and vouchers |
+| Optional | ISC2 CC | Free programme ended 20 May 2026. Only if discounted or you hold an unexpired voucher |
+| Phase 5 | Hands on AI red teaming credential | Verify current options first |
 
 ## Honest expectations
 - 12 months at 40 hrs/week is realistic for a **junior to mid AI security / AppSec role**. "High paying" senior roles typically come 1 to 2 years after that, on top of this evidence.
