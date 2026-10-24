@@ -82,6 +82,9 @@ Each phase ends with a **gate** (written test + practical). Pass at 80% or repea
 | Optional | ISC2 CC | Free programme ended 20 May 2026. Only if discounted or you hold an unexpired voucher |
 | Phase 5 | Hands on AI red teaming credential | Verify current options first |
 
+## Hardening track
+From Week 3, 4 hours every Friday go on securing and cleaning FORGE by hand. See [HARDENING-TRACK.md](HARDENING-TRACK.md). Outputs: attack surface map, case studies, triage log, flagship LLM writeup.
+
 ## Honest expectations
 - 12 months at 40 hrs/week is realistic for a **junior to mid AI security / AppSec role**. "High paying" senior roles typically come 1 to 2 years after that, on top of this evidence.
 - The adjacent door (AppSec engineer, security analyst at an AI company) is the most likely first hire. Plan for it.
