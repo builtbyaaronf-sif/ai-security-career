@@ -33,6 +33,8 @@ What to keep: Python first, build in public, the input sanitiser gateway as proj
 | `WEEK-01.md` | This week. Exact tasks. |
 | `tests/` | Question banks and the testing cadence |
 | `log/` | Weekly logs: hours, artefacts, quiz score, blockers |
+| `HARDENING-TRACK.md` | Securing and cleaning FORGE by hand: schedule, rules, workflow |
+| `case-studies/` | One report per fixed issue |
 | `LLM-TRACK.md` | LLM depth courses and artifacts, from Week 7 |
 | `BRAND.md` | GitHub, LinkedIn and CV structure |
 | `SETUP-WINDOWS.md` | Workstation setup (WSL2 Ubuntu, VS Code, Git) |
