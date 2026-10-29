@@ -1,1 +1,1 @@
-print(input().replace(":)", "🙂").replace(":((", "🙁"))
+print(input().replace(":)", "🙂").replace(":(", "🙁"))

@@ -30,10 +30,12 @@ none
 ## Other notes
 CLI - Command Line Interface
 Functions - action or verb within program (e.g print)
-argument - value within a function
+Parameter - (name)
+argument - value within a function e.g ("aaron")
 Functions have side effects but not negative
-return values - response with value
+return values - belongs to A function that hands a value back to the code that called it
 variable - container of value
+input() - returns Whatever the user typed, always as a string
 = - assignment operator, copies from right to left
 "" - anything inside quote marks is string
 if function is using a variable no quote marks, it only accepts variables as string (text)
@@ -49,3 +51,6 @@ can nest one function with another - works like brackets in math
 float is number with decimal
 def - define (use to create your own functions)
 ** - to the power of
+q10 of quiz 1 - this was a question related to security
+
+The MemoryError. m was the text "84" and c ** 2 is 90 quadrillion, so Python tried to repeat "84" 90 quadrillion times and ran out of memory. Security link: when user input controls how much work a program does, an attacker can crash or exhaust it. That’s a denial of service weakness (OWASP “unbounded consumption”), the same idea as the cost abuse risk in FORGE’s AI endpoints. The defence is to check the type and enforce limits on anything a user supplies.
