@@ -14,3 +14,9 @@
 | SVG stored XSS (FORGE F4) | Baseline | | |
 | Serverless state and rate limits (FORGE F2) | Baseline | | |
 | Security frameworks | Baseline | | |
+| Return values | Quiz 1 | | |
+| Parameters vs arguments | Quiz 1 | | |
+| What input() returns (a string) | Quiz 1 | | |
+| String times number (repetition) | Quiz 1 | | |
+| Operator precedence explanation | Quiz 1 | | |
+| Unbounded input and denial of service | Quiz 1 | | |
