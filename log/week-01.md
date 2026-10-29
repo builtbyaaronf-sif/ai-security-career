@@ -1,6 +1,6 @@
 # Week 1 log
 
-- Hours: 3 (setup)
+- Hours: 8 (setup, lecture 0 + notes, Problems 00)
 - Artefacts shipped (links): Ubuntu WSL2, GitHub SSH key, repo cloned, VS Code connected to WSL
 - Monday quiz score: Baseline 3.5/15 (23%)
 - Friday practical: pending
