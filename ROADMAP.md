@@ -73,14 +73,30 @@ Each phase ends with a **gate** (written test + practical). Pass at 80% or repea
 
 **Gate 6:** an offer.
 
-## Certification plan (revised 23 Oct 2026)
+## Direction (decided 29 Oct 2026)
+**Purple team, leaning blue.** I learn to break systems so I can detect and stop attacks. Target roles, in the likely order: SOC Analyst (AI aware), Detection Engineer, Security Engineer (AI/LLM), Application Security Engineer, then AI Security Engineer. Hybrid London roles are acceptable as a first step. Remote comes later.
+Offensive roles are the scarcest. Blue team entry is more available, and offensive knowledge makes a better defender.
+
+## Blue team layer (added to the phases above)
+| Weeks | Focus | Free resource | Output |
+|---|---|---|---|
+| 15 to 20 | SOC fundamentals: log analysis, MITRE ATT&CK, triage | TryHackMe SOC Level 1 path, LetsDefend free tier | Alert triage writeups |
+| 21 to 30 | Home SIEM lab (Splunk free or Elastic), Sigma style detection rules, incident response basics | Splunk Fundamentals (free), Elastic docs | Lab repo with detections and tests |
+| 21 to 30 | AI specific monitoring: what to log from an LLM app, detecting prompt injection attempts, tool misuse, cost abuse | OWASP LLM Top 10, MITRE ATLAS | Detection rules for FORGE (see HARDENING-TRACK) |
+| 31 to 40 | Incident response runbooks and a tabletop exercise | NIST SP 800-61 | FORGE incident response plan |
+
+## Certification plan (revised 29 Oct 2026)
 | When | Cert | Notes |
 |---|---|---|
-| Weeks 7 to 14 | PortSwigger lab progress (free) | Public profile, hard to fake |
-| About week 14 | Burp Suite Certified Practitioner | Practical exam, about $99. Check price |
-| About week 24 | CompTIA Security+ | Common HR filter. Roughly $400. Check price and vouchers |
+| Weeks 7 to 20 | PortSwigger and TryHackMe progress (free) | Public, hard to fake |
+| About week 20 | CompTIA Security+ | Common HR filter. Roughly $400. Check price and vouchers |
+| About week 30 | One blue team cert: Blue Team Level 1 (Security Blue Team) or CompTIA CySA+ | Pick by what target job ads ask for. Check price |
+| Optional | Burp Suite Certified Practitioner | Offensive, now lower priority. Do it only if the PortSwigger labs go very well |
 | Optional | ISC2 CC | Free programme ended 20 May 2026. Only if discounted or you hold an unexpired voucher |
-| Phase 5 | Hands on AI red teaming credential | Verify current options first |
+| Phase 5 | AI specific credential or a governance one (AIGP or ISO 42001) | Verify current options first |
+
+## Monthly governance deliverable (from FORGE)
+One short document a month, true to FORGE: AI risk register, DPIA for RELAY, AI disclosure policy, RELAY threat model, vendor risk review, incident response plan. Builds the hybrid profile (UK GDPR plus AI governance).
 
 ## Hardening track
 From Week 3, 4 hours every Friday go on securing and cleaning FORGE by hand. See [HARDENING-TRACK.md](HARDENING-TRACK.md). Outputs: attack surface map, case studies, triage log, flagship LLM writeup.
