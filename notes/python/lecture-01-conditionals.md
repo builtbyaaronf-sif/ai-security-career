@@ -8,7 +8,9 @@ indentation must be used for conditionals
 and & or - works as natural language
 ALWAYS THINK ABOUT HOW TO SHORTEN CODE
 % - is not the same percentage it means remainder
+.strip() - removes the spaces at the end of string input
 
+input normalisation, and it’s a core security principle. Attackers exploit differences between what a program checks and what it uses. Examples: admin versus Admin, a trailing space in a username, or hidden Unicode lookalike characters. Defenders normalise first, then validate, and do it in one place.
 ## The idea in one sentence
 (my words)
 
