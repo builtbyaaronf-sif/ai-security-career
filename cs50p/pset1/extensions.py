@@ -1,4 +1,4 @@
-filename = input("File name? ".strip().lower())
+filename = input("File name? ").strip().lower()
 if filename.endswith(".txt"):
     print("text/plain")
 elif filename.endswith(".gif")          :
