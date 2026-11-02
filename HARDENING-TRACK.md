@@ -1,5 +1,7 @@
 # FORGE hardening track
 
+**Pace note (2 Nov 2026):** with a 15 to 20 hour week, the schedule below is stretched. Start at Week 13 with 2 hours a week, and treat the old week numbers as roughly double.
+
 **What it is:** I read, test and fix the security of a real production codebase (FORGE, an AI agent platform that takes live payments and handles personal data), by hand, and publish what I learn.
 **Why it counts:** it is real code with real consequences, and every fix has a commit, a test and a writeup.
 **Time:** 4 hours every Friday from Week 3. Counted inside the 40.

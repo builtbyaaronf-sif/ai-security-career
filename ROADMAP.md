@@ -1,6 +1,23 @@
-# Roadmap: 48 weeks, 6 phases
+# Roadmap: 6 phases (pace: 15 to 20 hours a week)
 
 Each phase ends with a **gate** (written test + practical). Pass at 80% or repeat the weak areas for a week.
+
+## Pace and timeline (revised 2 Nov 2026)
+**Pace:** 15 to 20 hours a week. The original plan assumed 40, so every week number in the phase sections below is the 40 hour schedule. Multiply by roughly 2 for the real timeline. The two stage plan below is the one to follow.
+
+**Stage A: SOC ready (about 40 weeks, apply from roughly July 2027).** The aim is a first role as a SOC analyst (hybrid London). It needs fewer skills than AI security, and it gets paid experience sooner.
+| Weeks | Focus | Output |
+|---|---|---|
+| 1 to 12 | Python (CS50P, about 1 lecture per 1 to 1.5 weeks), Linux (Bandit), Git | CS50P repo, notes, quizzes |
+| 13 to 22 | Web and API security (PortSwigger, 20 or more labs), networking and HTTP, FORGE attack surface map (2 hrs a week) | Lab writeups, attack surface map |
+| 23 to 32 | SOC fundamentals (TryHackMe SOC Level 1, MITRE ATT&CK, log analysis), home lab, Security+ study, first FORGE fixes | Home lab repo, first case studies |
+| 33 to 40 | Security+ mocks and exam, detections in the lab, CV and LinkedIn rewrite, start applying | Security+ passed, applications out |
+
+**Stage B: AI security specialism (about weeks 41 to 90, alongside a job).** LLM track (API, RAG, evals), OWASP LLM Top 10, MITRE ATLAS, garak, PyRIT, indirect prompt injection research on SCOUT, one blue team cert (BTL1 or CySA+), monthly governance documents, bug bounty and writing. Target: security engineer (AI/LLM) roles by about mid 2028.
+
+**Weekly shape (about 17 hours):** roughly 8 hours lectures and course, 5 hours labs and code, 2 hours notes, log and quiz prep, 2 hours practice or FORGE hardening.
+
+**Honesty:** these dates are estimates and the bottleneck is hours, not ability. Review the plan every 8 weeks and change it if pace changes.
 
 ## Phase 1: Foundations (Weeks 1 to 6)
 **Goal:** write Python and use Linux, Git and HTTP without help.

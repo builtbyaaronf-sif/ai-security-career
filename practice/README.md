@@ -1,5 +1,7 @@
 # Practice system: scenarios and mock exams
 
+**Pace note (2 Nov 2026):** the week numbers in the tables are the original 40 hour schedule. At 15 to 20 hours a week, roughly double them. Drill S01 starts about Week 12.
+
 Two kinds of practice, both scored and logged.
 
 ## 1. Scenario drills (tabletop incident exercises)

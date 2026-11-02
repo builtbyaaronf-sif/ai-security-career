@@ -1,5 +1,7 @@
 # LLM depth track (runs beside the security track)
 
+**Pace note (2 Nov 2026):** this track now belongs to Stage B (about Week 41 onwards, 4 hours a week). Before then, do light reading only.
+
 **Time:** about 5 hours a week from Week 7. Security track keeps the other 35.
 **Rule:** every course must produce a repo artifact. No artifact, no course.
 **Check each course is still free before starting. Offers change.**

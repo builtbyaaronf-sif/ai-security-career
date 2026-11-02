@@ -1,7 +1,7 @@
 # AI Security Career Program
 
 **Owner:** Aaron F. ([FORGE](https://forgeisagentic.tech)) | **Started:** 23 Oct 2026 | **Target:** remote AI Security Engineer / AI Red Teamer, £80k to £130k+ (UK) or $150k+ (US remote)
-**Commitment:** 40 hrs/week | **Horizon:** 12 months to first offer, reviewed every 4 weeks
+**Commitment:** 15 to 20 hrs/week (revised 2 Nov 2026) | **Horizon:** SOC ready in about 40 weeks, AI security specialism by about mid 2028, reviewed every 8 weeks
 
 ## The verdict on the Google Doc plan
 
